@@ -92,17 +92,19 @@ The project is composed of **3 main components**:
 ---
 
 ## 📂 Project Structure
+
+```
+.
 ├── hooks/
 ├── node_modules/
 ├── platforms/
 ├── plugins/
 ├── res/
-├── www/ # Application frontend
+├── www/              # Application frontend
 ├── config.xml
 ├── package.json
 └── README.md
-
----
+```
 
 ## ⚙️ Installation & Setup
 
